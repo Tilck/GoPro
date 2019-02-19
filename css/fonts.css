@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Usuzi";
+    src: url("../fonts/usuzi.ttf");
+    src: url("../fonts/usuzi.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
